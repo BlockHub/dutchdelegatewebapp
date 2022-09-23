@@ -23,7 +23,7 @@ idna==2.6
 ledgerblue==0.1.16
 olefile==0.44
 Pillow==4.3.0
-protobuf==3.5.0.post1
+protobuf==3.18.3
 psycopg2==2.7.3.2
 pycparser==2.18
 pycrypto==2.6.1
