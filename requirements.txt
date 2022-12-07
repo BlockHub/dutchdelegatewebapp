@@ -1,7 +1,7 @@
 arkdbtools==0.2.15
 Arky==0.4.1
 base58==0.2.5
-certifi==2017.11.5
+certifi==2022.12.7
 cffi==1.11.2
 chardet==3.0.4
 dj-database-url==0.4.2
